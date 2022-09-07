@@ -1,7 +1,14 @@
 {
     "name": "moves/api-wrapper",
     "description": "A system for quickly developing PHP wrapper clients around remote APIs",
-    "keywords": ["php", "remote", "api", "REST", "wrapper", "client"],
+    "keywords": [
+        "php",
+        "remote",
+        "api",
+        "REST",
+        "wrapper",
+        "client"
+    ],
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -31,5 +38,6 @@
         "psr-4": {
             "Tests\\": "tests/"
         }
-    }
+    },
+    "version": "2.0.0"
 }

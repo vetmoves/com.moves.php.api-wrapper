@@ -4,6 +4,11 @@
 All notable changes to this project will be documented in this file.
 <!--- END HEADER -->
 
+## [3.0.1](https://github.com/vetmoves/com.moves.php.api-wrapper/compare/v3.0.0...v3.0.1) (2023-04-10)
+
+
+---
+
 ## [3.0.0](https://github.com/vetmoves/com.moves.php.api-wrapper/compare/2.0.0...v3.0.0) (2023-04-10)
 
 ### ⚠ BREAKING CHANGES

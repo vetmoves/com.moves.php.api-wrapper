@@ -4,6 +4,15 @@
 All notable changes to this project will be documented in this file.
 <!--- END HEADER -->
 
+## [3.0.0](https://github.com/vetmoves/com.moves.php.api-wrapper/compare/2.0.0...v3.0.0) (2023-04-10)
+
+### ⚠ BREAKING CHANGES
+
+* Upgrade to Laravel 10 ([13751b](https://github.com/vetmoves/com.moves.php.api-wrapper/commit/13751beb5d67726b8e1cecf846d097c78793571f))
+
+
+---
+
 ## [2.0.0](https://github.com/vetmoves/com.moves.php.api-wrapper/compare/1.0.0...2.0.0) (2022-09-07)
 
 ### ⚠ BREAKING CHANGES

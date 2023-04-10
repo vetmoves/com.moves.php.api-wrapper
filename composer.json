@@ -23,7 +23,7 @@
         "nesbot/carbon": "^2.42",
         "petrknap/php-singleton": "^1.0",
         "guzzlehttp/guzzle": "^7.2",
-        "illuminate/collections": "^9.0",
+        "illuminate/collections": "^10.0",
         "symfony/string": "^5.2"
     },
     "require-dev": {

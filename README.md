@@ -1,3 +1,6 @@
+# Abandoned
+This package is abandoned, and the source has been transferred to our primary application repository https://github.com/vetmoves/com.moves.web
+
 # API Wrapper
 ## Introduction
 API Wrapper is a system for quickly developing PHP wrapper clients around remote APIs. Powered by 
